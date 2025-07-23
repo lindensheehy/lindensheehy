@@ -2,6 +2,8 @@
 
 👋 Hi! I’m Linden, a third-year Software Engineering student at the University of Ottawa with a deep passion for low-level programming, game engines, and reverse engineering. Coding isn't just a career goal — it's what I genuinely love doing. I’m always building personal projects to push my understanding of how things work under the hood.
 
+I’m looking for opportunities in **game engine development**, **embedded systems**, **reverse engineering**, or any role that works close to the system and lets me keep learning!
+
 ---
 
 ## Featured Projects
@@ -39,6 +41,6 @@ Alongside my coursework, I’ve gained hands-on experience through projects and 
 
 ---
 
-## Let’s Connect! 😊
+## Let’s Connect! 😄
 
 Got a cool project or just want to chat about graphics and low-level code? [Email me](mailto:linden.sheehy@outlook.com) — I'm always happy to connect!
