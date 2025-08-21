@@ -4,6 +4,8 @@
 
 I’m looking for opportunities in **game engine development**, **embedded systems**, **reverse engineering**, or any role that works close to the system and lets me keep learning!
 
+💡 Don’t want to scroll through this boring README? My [portfolio website](https://lindensheehy.github.io/PortfolioWebsite/) does a much better job — with extra projects and a downloadable resume.
+
 ---
 
 ## Featured Projects
